@@ -15,7 +15,7 @@ nav {
 
 
 body {
-	background: url(/img/detalhe.png);
+	background: url(./img/detalhe.png);
 	background-color: #0f0f0f;
 	background-repeat: no-repeat;
 	background-size: cover;
